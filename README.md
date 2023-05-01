@@ -3,8 +3,7 @@
 [Yazı içi linkiyim](https://www.google.com)
 
 
-# merababencınar
-## bu bir denemedir
-bu da bir denemedir
-bu da son olarak bir dnemedir :D
-kkjlljlş
+# Çınar Fidanboy (MorphaxTheDeveloper)
+***
+## Little Introduction
+I'm a high school student that loves computer stuff. I'm writing code since i was 11. I started coding with writing basic bat scripts :D
