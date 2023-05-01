@@ -1,4 +1,4 @@
-![1667169026826](https://user-images.githubusercontent.com/61086421/235522059-ed427fb1-a7be-4215-a066-3a151126b85f.jpg)
+![61086421](https://user-images.githubusercontent.com/61086421/235527512-e8634a01-ac87-4876-b334-a63888a4e4b8.jpg)
 
 # Çınar Fidanboy (MorphaxTheDeveloper)
 ***
