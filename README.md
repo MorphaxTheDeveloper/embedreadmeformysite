@@ -1,6 +1,5 @@
-![61086421](https://user-images.githubusercontent.com/61086421/235527512-e8634a01-ac87-4876-b334-a63888a4e4b8.jpg)
-
-## Çınar Fidanboy (MorphaxTheDeveloper)
+![lowres](https://user-images.githubusercontent.com/61086421/235972085-75dd22c7-633d-454a-bcca-1934448c2ab1.jpg)
+### Çınar Fidanboy (MorphaxTheDeveloper)
 #### _Red Teaming, Backend Engineering_
 &nbsp;
 
