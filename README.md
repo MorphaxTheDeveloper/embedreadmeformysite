@@ -37,8 +37,9 @@ I'm an high school student that loves computer stuff.
 #### Platforms
 ***
 1. [Github](https://www.github.com/morphaxthedeveloper)
-2. [TryHackMe](https://tryhackme.com/p/morphax)
-3. [Discord](https://discord.com/channels/@me/626097240305434625)
-3. [Mail](mailto://cinarfidanboy@gmail.com)
+2. [Linkedln](https://www.linkedin.com/in/%C3%A7%C4%B1nar-fidanboy-b1b963252/)
+3. [TryHackMe](https://tryhackme.com/p/morphax)
+4. [Discord](https://discord.com/channels/@me/626097240305434625)
+5. [Mail](mailto://cinarfidanboy@gmail.com)
 
 ***
