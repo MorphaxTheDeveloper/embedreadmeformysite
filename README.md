@@ -17,7 +17,6 @@ I'm an high school student that loves computer stuff.
 4. HTML
 5. CSS
 6. PHP
-7. Javascript
 ***  
 
 &nbsp;
